@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "background": "#615a55",
+    "button": "#dedede",
+    "playing": "#ea2c46",
+    "text": "#000000"
+  },
+  "sounds": [
+    "bass_drum.wav",
+    "cl_hi_hat.wav",
+    "claves.wav",
+    "cowbell.wav",
+    "cymbal.wav",
+    "hand_clap.wav",
+    "hi_conga.wav",
+    "hi_tom.wav",
+    "low_conga.wav",
+    "low_tom.wav",
+    "maracas.wav",
+    "mid_conga.wav",
+    "mid_tom.wav",
+    "o_hi_hat.wav",
+    "rim_shot.wav",
+    "snare_drum.wav"
+  ]
+}
